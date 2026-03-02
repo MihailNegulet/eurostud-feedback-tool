@@ -12,6 +12,8 @@ export const projects = [
     { id: 10, name: "Revelion Cracovia, editia 2" },
     { id: 11, name: "Să cucerim Praga, editia 61" },
     { id: 12, name: "Să cucerim Praga, editia 62" },
-    
+    { id: 13, name: "Discover Copenhagen Culture!, editia 15" },
+    { id: 14, name: "Discover Copenhagen Culture!, editia 16" },
+    { id: 15, name: "Discover Copenhagen Culture!, editia 17" },
 ];
 
