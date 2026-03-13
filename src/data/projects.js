@@ -1,6 +1,6 @@
 
 export const projects = [
-    { id: 1, name: "Descopera Venetia, editia 4" },
+    //{ id: 1, name: "Descopera Venetia, editia 4" },
     { id: 2, name: "Paris: Istorie si Cultura, editia 10" },
     { id: 3, name: "La pas prin Europa: Amsterdam, editia 18" },
     { id: 4, name: "Paris: Istorie si Cultura, editia 11" },
@@ -15,5 +15,6 @@ export const projects = [
     { id: 13, name: "Discover Copenhagen Culture!, editia 15" },
     { id: 14, name: "Discover Copenhagen Culture!, editia 16" },
     { id: 15, name: "Discover Copenhagen Culture!, editia 17" },
+    { id: 16, name: "Guten tag, Berlin, editia 3" },
 ];
 
