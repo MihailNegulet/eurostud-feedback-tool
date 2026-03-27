@@ -9,7 +9,7 @@ const Home = () => {
           <div className="hero-text">
             <h1>Povestea ta contează! 🌍</h1>
             <p>
-              Ai participat la un proiect RomStud? <br />
+              Ai participat la un proiect EuroStud? <br />
               Ajută-ne să creăm experiențe și mai faine pentru viitorii studenți.
               Durează doar <strong>60 de secunde</strong>.
             </p>

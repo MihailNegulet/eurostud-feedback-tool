@@ -58,7 +58,7 @@ const Testimonials = () => {
     <div className="public-page">
       <div className="hero-section">
         <h1>Jurnal de Călătorie 🌍</h1>
-        <p>Experiențe reale și amintiri din proiectele RomStud.</p>
+        <p>Experiențe reale și amintiri din proiectele EuroStud.</p>
       </div>
 
       <div className="testimonials-container">
@@ -105,7 +105,7 @@ const Testimonials = () => {
                         </div>
                     ) : (
                         <div className="user-info">
-                            <span className="user-name">Participant RomStud</span>
+                            <span className="user-name">Participant EuroStud</span>
                             <span className="user-date">{new Date(fb.date).toLocaleDateString("ro-RO")}</span>
                         </div>
                     )}

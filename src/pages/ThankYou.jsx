@@ -14,7 +14,7 @@ const ThankYou = () => {
         <h1>Mulțumim! 🚀</h1>
         <p>
           Feedback-ul tău a ajuns cu bine la noi. <br />
-          Datorită ție, viitoarele proiecte RomStud vor fi și mai faine!
+          Datorită ție, viitoarele proiecte EuroStud vor fi și mai faine!
         </p>
 
         <div className="action-buttons">

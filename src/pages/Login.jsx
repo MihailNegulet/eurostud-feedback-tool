@@ -24,7 +24,7 @@ const Login = () => {
   return (
     <div className="page" style={{ maxWidth: "400px", margin: "4rem auto", textAlign: "center" }}>
       <h2 style={{color: '#004aad'}}>Autentificare Admin 🛡️</h2>
-      <p style={{color: '#666', marginBottom: '20px'}}>Acces doar pentru organizatorii RomStud</p>
+      <p style={{color: '#666', marginBottom: '20px'}}>Acces doar pentru organizatorii EuroStud</p>
       
       {error && <p style={{ color: "red", background: "#ffe6e6", padding: "10px", borderRadius: "5px" }}>{error}</p>}
 
