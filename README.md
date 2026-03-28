@@ -1,10 +1,10 @@
-# 🌍 RomStud Feedback & Rating Tool
+# 🌍 EuroStud Feedback & Rating Tool
 
 ![Project Status](https://img.shields.io/badge/status-live-success) ![Tech Stack](https://img.shields.io/badge/stack-React_Firebase-blue)
 
 A modern, full-stack feedback collection platform built for **RomStud**, a student organization specializing in cultural travel projects across Europe. This application digitizes the feedback process, transforming it from tedious forms into an engaging, interactive experience, while providing organizers with a powerful dashboard for data analysis.
 
-🔗 **Live Demo:** [https://romstud-feedback.netlify.app/]
+🔗 **Live Demo:** [https://eurostud-feedback.netlify.app/]
 
 ---
 
@@ -37,28 +37,28 @@ I built a custom Single Page Application (SPA) that serves two main purposes:
 
 ### 👤 User Interface (Client Side)
 
--   **Interactive Rating System:** Custom star-rating components for granular feedback (Organization, Vibe, Logistics).
--   **Gamification:** Confetti animations upon successful submission to boost user satisfaction.
--   **Responsive Design:** Fully optimized for mobile devices (iPhone/Android) using modern CSS Grid and Flexbox layouts.
--   **Dynamic Media Gallery:** A curated list of external project links (Vlogs, Albums, Aftermovies) with dynamic thumbnails.
+- **Interactive Rating System:** Custom star-rating components for granular feedback (Organization, Vibe, Logistics).
+- **Gamification:** Confetti animations upon successful submission to boost user satisfaction.
+- **Responsive Design:** Fully optimized for mobile devices (iPhone/Android) using modern CSS Grid and Flexbox layouts.
+- **Dynamic Media Gallery:** A curated list of external project links (Vlogs, Albums, Aftermovies) with dynamic thumbnails.
 
 ### 🛡️ Admin Dashboard (Protected)
 
--   **Secure Authentication:** Firebase Auth (Email/Password) to protect sensitive data.
--   **Real-time Analytics:** Visual charts (using `Recharts`) displaying participation trends and average scores per project.
--   **Content Moderation:** Approval system (Publish/Hide) to control which testimonials appear on the public site.
--   **Data Management:** Full CRUD capabilities (Create, Read, Update, Delete) and **CSV Export** for offline reporting.
+- **Secure Authentication:** Firebase Auth (Email/Password) to protect sensitive data.
+- **Real-time Analytics:** Visual charts (using `Recharts`) displaying participation trends and average scores per project.
+- **Content Moderation:** Approval system (Publish/Hide) to control which testimonials appear on the public site.
+- **Data Management:** Full CRUD capabilities (Create, Read, Update, Delete) and **CSV Export** for offline reporting.
 
 ---
 
 ## 🛠️ Tech Stack
 
--   **Frontend:** React.js, Vite
--   **Styling:** Pure CSS3 (Custom Glassmorphism UI, Responsive Grid), Google Fonts (Poppins)
--   **Backend / Database:** Google Firebase (Firestore NoSQL Database)
--   **Authentication:** Firebase Auth
--   **Routing:** React Router v6 (Protected Routes implementation)
--   **Deployment:** Netlify (CI/CD connected to GitHub)
+- **Frontend:** React.js, Vite
+- **Styling:** Pure CSS3 (Custom Glassmorphism UI, Responsive Grid), Google Fonts (Poppins)
+- **Backend / Database:** Google Firebase (Firestore NoSQL Database)
+- **Authentication:** Firebase Auth
+- **Routing:** React Router v6 (Protected Routes implementation)
+- **Deployment:** Netlify (CI/CD connected to GitHub)
 
 ---
 
@@ -69,7 +69,7 @@ If you want to run this project locally:
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/MihailNegulet/romstud-feedback-tool.git
+    git clone https://github.com/MihailNegulet/eurostud-feedback-tool.git
     cd romstud-feedback-tool
     ```
 
@@ -80,10 +80,9 @@ If you want to run this project locally:
     ```
 
 3.  **Configure Firebase**
-
-    -   Create a project at [Firebase Console](https://console.firebase.google.com/).
-    -   Create a `.env` file in the root directory.
-    -   Add your Firebase configuration keys (VITE_API_KEY, etc.).
+    - Create a project at [Firebase Console](https://console.firebase.google.com/).
+    - Create a `.env` file in the root directory.
+    - Add your Firebase configuration keys (VITE_API_KEY, etc.).
 
 4.  **Run the application**
     ```bash
@@ -96,10 +95,10 @@ If you want to run this project locally:
 
 Building this project helped me solidify my skills in:
 
--   **State Management:** Handling complex form states and synchronizing them with a cloud database.
--   **Security Patterns:** Implementing Protected Routes and Firebase Security Rules to prevent unauthorized access.
--   **UI/UX Design:** Creating a polished "Glassmorphism" aesthetic manually with CSS (backdrop-filter, rgba colors) and ensuring perfect responsiveness on all viewports.
--   **Data Visualization:** Transforming raw data into meaningful insights using charts.
+- **State Management:** Handling complex form states and synchronizing them with a cloud database.
+- **Security Patterns:** Implementing Protected Routes and Firebase Security Rules to prevent unauthorized access.
+- **UI/UX Design:** Creating a polished "Glassmorphism" aesthetic manually with CSS (backdrop-filter, rgba colors) and ensuring perfect responsiveness on all viewports.
+- **Data Visualization:** Transforming raw data into meaningful insights using charts.
 
 ---
 
@@ -107,5 +106,5 @@ Building this project helped me solidify my skills in:
 
 **[Mihail Negulet]** - Frontend / Full-Stack Developer
 
--   [Linkedin](https://www.linkedin.com/in/mihail-negulet-31835983/)
--   [GitHub](https://github.com/MihailNegulet?tab=repositories)
+- [Linkedin](https://www.linkedin.com/in/mihail-negulet-31835983/)
+- [GitHub](https://github.com/MihailNegulet?tab=repositories)
