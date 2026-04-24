@@ -8,8 +8,8 @@ export const projects = [
     //{ id: 6, name: "Revelion Atena, editia 1" },
     //{ id: 7, name: "Revelion Atena, editia 2" },
     //{ id: 8, name: "Revelion Atena, editia 3" },
-    { id: 9, name: "Revelion Cracovia, editia 1" },
-    { id: 10, name: "Revelion Cracovia, editia 2" },
+    //{ id: 9, name: "Revelion Cracovia, editia 1" },
+    //{ id: 10, name: "Revelion Cracovia, editia 2" },
     { id: 11, name: "Să cucerim Praga, editia 61" },
     { id: 12, name: "Să cucerim Praga, editia 62" },
     { id: 13, name: "Discover Copenhagen Culture!, editia 15" },
@@ -18,5 +18,7 @@ export const projects = [
     { id: 16, name: "Guten tag, Berlin, editia 3" },
     { id: 17, name: "Portugalia: Lisabona - Porto, editia 5" },
     { id: 18, name: "Portugalia: Lisabona - Porto, editia 6" },
+    { id: 19, name: "Istanbul: între Europa și Asia, ediţia 6" },
+    { id: 20, name: "Istanbul: între Europa și Asia, ediţia 7" },
 ];
 
