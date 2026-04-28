@@ -17,6 +17,7 @@ const Login = () => {
       // Dacă nu dă eroare, înseamnă că e logat
       navigate("/admin");
     } catch (err) {
+      console.error("Eroare Firebase:", err.code, err.message);
       setError("Email sau parolă greșită!");
     }
   };
