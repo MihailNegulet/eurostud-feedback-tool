@@ -29,6 +29,17 @@ export const projects = [
     { id: 27, name: "Să cucerim Viena, ediţia 12" },
     { id: 28, name: "Lacul Como (Bellagio, Varena, Mennagio)-Milano-Veneția, ediţia 1" },
     { id: 29, name: "Lacul Como (Bellagio, Varena, Mennagio)-Milano-Veneția, ediţia 2" },
-
+    { id: 30, name: "Descopera Thassos, editia 26" },
+    { id: 31, name: "Descopera Thassos, editia 27" },
+    { id: 32, name: "Descopera Thassos, editia 28" },
+    { id: 33, name: "Descopera Thassos, editia 29" },
+    { id: 34, name: "Halkidiki, editia 1" },
+    { id: 35, name: "Halkidiki, editia 2" },
+    { id: 36, name: "Halkidiki, editia 3" },
+    { id: 37, name: "Canada: Montreal - Quebec, editia 1" },
+    { id: 38, name: "Canada: Montreal - Quebec, editia 2" },
+    { id: 39, name: "Canada: Montreal - Quebec, editia 3" },
+    { id: 40, name: "New York is calling you, editia 2026" },
+    { id: 41, name: "Istanbul: între Europa și Asia, ediţia 8" },
 ];
 
